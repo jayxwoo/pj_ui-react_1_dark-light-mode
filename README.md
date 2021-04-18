@@ -1,4 +1,4 @@
-# 7. Dark and Light Mode - react.js
+# 1. Dark Light Mode - react.js
 ## Screenshots
 ![screenshot-01](./screenshots/screenshot-01.png)
 ![screenshot-02](./screenshots/screenshot-02.png)
